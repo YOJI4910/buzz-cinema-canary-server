@@ -1,0 +1,47 @@
+{
+  "version": "2.0",
+  "routeKey": "ANY /camp-lottery",
+  "rawPath": "/default/camp-lottery",
+  "rawQueryString": "hoge=fuga",
+  "headers": {
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ja,en-US;q=0.9,en;q=0.8",
+    "cache-control": "max-age=0",
+    "content-length": "0",
+    "host": "3eb2tmqaza.execute-api.ap-northeast-1.amazonaws.com",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "document",
+    "sec-fetch-mode": "navigate",
+    "sec-fetch-site": "none",
+    "sec-fetch-user": "?1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+    "x-amzn-trace-id": "Root=1-61c1e58e-5d119ac84b3130f45df77aa7",
+    "x-forwarded-for": "133.32.224.170",
+    "x-forwarded-port": "443",
+    "x-forwarded-proto": "https"
+  },
+  "queryStringParameters": { "hoge": "fuga" },
+  "requestContext": {
+    "accountId": "674656733927",
+    "apiId": "3eb2tmqaza",
+    "domainName": "3eb2tmqaza.execute-api.ap-northeast-1.amazonaws.com",
+    "domainPrefix": "3eb2tmqaza",
+    "http": {
+      "method": "GET",
+      "path": "/default/camp-lottery",
+      "protocol": "HTTP/1.1",
+      "sourceIp": "133.32.224.170",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+    },
+    "requestId": "KtDORhUgtjMEPqA=",
+    "routeKey": "ANY /camp-lottery",
+    "stage": "default",
+    "time": "21/Dec/2021:14:32:46 +0000",
+    "timeEpoch": 1640097166334
+  },
+  "isBase64Encoded": false
+}
